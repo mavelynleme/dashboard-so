@@ -2,6 +2,11 @@
 
 Aplicacao Node.js + Express para monitoramento de informacoes do Sistema Operacional, criada para a atividade **Projeto - Nuvem e Sistemas Operacionais**. O painel usa identidade visual escura com fundo preto, cards dark e detalhes em rosa.
 
+## Links do projeto
+
+- **Aplicação no Render:** https://dashboard-so-hyrk.onrender.com/
+- **Aplicação no Railway:** https://dashboard-so-production.up.railway.app/
+
 ## Objetivo
 
 Apresentar, em uma interface web simples e responsiva, dados reais do ambiente onde a aplicacao esta executando: maquina local ou Render/cloud.
