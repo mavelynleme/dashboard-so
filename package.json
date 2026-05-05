@@ -1,8 +1,8 @@
 {
-  "name": "notas-app",
+  "name": "dashboard-so",
   "version": "0.1.0",
   "private": true,
-  "description": "API REST simples com Node.js e Express",
+  "description": "Dashboard de monitoramento de Sistema Operacional com Node.js e Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -17,6 +17,8 @@
   "keywords": [
     "node",
     "express",
-    "api"
+    "dashboard",
+    "sistemas-operacionais",
+    "render"
   ]
 }
